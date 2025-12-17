@@ -23,7 +23,7 @@
 <br>
 
 
-# WebOSINT 🌐
+# VOIP 🌐
 **WebOSINT** is a Python script to gather (passive) domain intelligence.
 
 <br>

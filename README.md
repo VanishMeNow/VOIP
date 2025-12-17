@@ -14,7 +14,8 @@
 <br>
 
 <div align="center">
-<img width="633" src="https://user-images.githubusercontent.com/104733166/185790639-b1f09747-aea3-4f64-a52f-d70efd820a22.png"></div>
+<img src="assets/banner.png">
+</div>
 
 
 <br>

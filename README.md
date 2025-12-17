@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python&logoColor=white"/> 
 <a href="https://github.com/VanishMeNow"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-purple?style=for-the-badge&logo=github&logoColor=white"/>
 <a href="https://ko-fi.com/tacticalintelanalyst"> <img alt="Kofi" src="https://img.shields.io/badge/Ko--fi-purple?style=for-the-badge&logo=ko-fi&logoColor=white">
-<a href="https://user-images.githubusercontent.com/104733166/171052611-1f76b07c-832f-4a4a-9a0a-2f94595c28c9.png"/><img alt="BTC" src="https://img.shields.io/badge/Bitcoin-purple?style=for-the-badge&logo=bitcoin&logoColor=white">
+<a href="https://user-images.githubusercontent.com/104733166/171052611-1f76b07c-832f-4a4a-9a0a-2f94595c28c9.png"/><img alt="USDT-TRC20" src="https://img.shields.io/badge/Bitcoin-purple?style=for-the-badge&logo=bitcoin&logoColor=white">
 
 <br>
 <br>
@@ -178,7 +178,7 @@ Feel free to contribute and to change some code within the tool, submit a PR (Pu
 <br>
   
 # Support 💜
-If you like this simple Python tool, feel free to donate to my work by clicking on the **KO-FI** Badge or the **BITCOIN** Badge at the top of this  `README.md` file, you can also scan my BTC QR Code directly to get my BTC Address. 
+If you like this simple Python tool, feel free to donate to my work by clicking on the **KO-FI** Badge or the **BITCOIN** Badge at the top of this  `README.md` file, you can also scan my USDT-TRC20 QR Code directly to get my USDT-TRC20 Address. 
 
 <br>
 
